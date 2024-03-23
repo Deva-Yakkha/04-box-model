@@ -1,0 +1,19 @@
+/* Element selector */
+body {
+    width: 600px;
+    height: 600px;
+    text-align: center;
+    border: 15px solid black;
+    padding-top: 30px;
+    
+}
+
+/* Images slector */
+img {
+    width: 200px;
+    height: 200px;
+    background-color: lightblue;
+    margin: 20px;
+    padding: 10px;
+    border: 5px solid burlywood
+}
